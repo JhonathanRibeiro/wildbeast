@@ -1,4 +1,4 @@
 # wildbeast
 Projeto Wildbeast - Curso de CSS GRID Layout da Origamid
-![image](https://user-images.githubusercontent.com/37172038/119235456-0bae3c80-bb09-11eb-8397-730f49878e7f.png)
+![image](https://user-images.githubusercontent.com/37172038/119235505-3f896200-bb09-11eb-91f8-6ab1a4bcb350.png)
 
